@@ -1,6 +1,6 @@
 ## Hi there 👋, welcome to my github page 🙂
 
-### Current events
+### About me
 - 🔭 I’m currently working on [huh.sh](https://github.com/adelinosousa/huh.sh)
 - 🌱 I’m currently learning a little bit of everything 😅
 - 👯 I’m looking to collaborate on open source projects
