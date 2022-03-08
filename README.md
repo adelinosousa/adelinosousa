@@ -1,6 +1,6 @@
 ## Hi there 👋, welcome to my github page 🙂
 
-### About me
+### Current events
 - 🔭 I’m currently working on [huh.sh](https://github.com/adelinosousa/huh.sh)
 - 🌱 I’m currently learning a little bit of everything 😅
 - 👯 I’m looking to collaborate on open source projects
@@ -46,11 +46,14 @@
           <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" class="rounded mr-3" width="30" height="30" alt="react">
       </a>
       <a href="/topics/redux" class="no-underline flex-grow-0">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" class="rounded mr-3" width="30" height="30" alt="redux">
+          <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" class="rounded mr-3" width="30" height="30" alt="redux">
       </a>
       <a href="/topics/sql" class="no-underline flex-grow-0">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" class="rounded mr-3" width="30" height="30" alt="sql">
+          <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" class="rounded mr-3" width="30" height="30" alt="sql">
       </a>
       <a href="/topics/typescript" class="no-underline flex-grow-0">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" class="rounded mr-3" width="30" height="30" alt="typescript">
+          <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" class="rounded mr-3" width="30" height="30" alt="typescript">
+      </a>
+      <a href="/topics/webpack" class="no-underline flex-grow-0">
+          <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" class="rounded mr-3" width="30" height="30" alt="webpack">
       </a>
