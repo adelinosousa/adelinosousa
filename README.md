@@ -7,6 +7,12 @@
 
 ---
 
+### Projects & Tutorials 📚
+- [huh.sh](https://github.com/adelinosousa/huh.sh): Encrypted anonymous messaging
+- [Email Forwarding](https://github.com/adelinosousa/demos/tree/main/EmailForwarding): AWS SES Email Forwarding
+
+---
+
 ### :zap: GitHub Stats
  <img align="left" alt="adelinosousa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adelinosousa&show_icons=true&hide_border=false&title_color=12c2e9&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
