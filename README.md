@@ -7,7 +7,7 @@
 
 ---
 
-### Projects & Tutorials 📚
+### Projects, Tools & Tutorials 📚
 - [huh.sh](https://github.com/adelinosousa/huh.sh): Encrypted anonymous messaging
 - [Email Forwarding](https://github.com/adelinosousa/demos/tree/main/EmailForwarding): AWS SES Email Forwarding
 - [CanICore](https://github.com/adelinosousa/canicore): Verify .net framework project nuget packages are .net core compatible
