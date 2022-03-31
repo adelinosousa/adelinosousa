@@ -18,6 +18,7 @@
 ### Gist 📚
 - [visibilitychange.js](https://gist.github.com/adelinosousa/d662fae9a887cf6e9eedf8899b0d560b): Detect browser tab visibility
 - [DR-SSL.md](https://gist.github.com/adelinosousa/69b95adb0d64ec0d59912e22cb140fc9): Docker + Dotnet + React + SSL Cheat Sheet
+- [NCS](https://gist.github.com/adelinosousa/619cc6b98b8a26e9958f1b61cbe3a8dc): Next.js Cheat Sheet
 
 ---
 
