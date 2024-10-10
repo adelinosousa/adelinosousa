@@ -1,9 +1,9 @@
 # Hi there 👋
 
-Welcome to my github page 🙂
+Welcome to my github page 🙂.
 
-## Projects 📚
-- [blue-feather](https://github.com/adelinosousa/blue-feather): Web API for managing device registrations using Firebase Cloud Messaging
+## Side Project Graveyard 📚
+- [blue-feather](https://github.com/adelinosousa/blue-feather): Web API for managing device notifications
 - [huh.sh](https://github.com/adelinosousa/huh.sh): Encrypted anonymous messaging
 - [Email Forwarding](https://github.com/adelinosousa/demos/tree/main/EmailForwarding): AWS SES Email Forwarding
 - [CanICore](https://github.com/adelinosousa/canicore): Verify .net framework project nuget packages are .net core compatible
