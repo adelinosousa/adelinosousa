@@ -12,7 +12,7 @@ I'm a full stack software developer who enjoys all expects of software developme
 
 ## Side Project Graveyard ⚰️
 
-Sometimes ideas live on a bit longer than the projects, so here’s a collection of my past side projects. Some were wild experiments, others a tad too niche, but each taught me something! 📚
+Sometimes ideas live on a bit longer than the projects, so here’s a collection of my past side projects. Some were "wild" experiments, others a tad too niche, but each taught me something! 📚
 
 - **[blue-feather](https://github.com/adelinosousa/blue-feather)**: A Web API for managing device notifications. Because pigeons cannot be trusted! 🪶
 - **[huh.sh](https://github.com/adelinosousa/huh.sh)**: Encrypted anonymous messaging. Who said that? 🤐
