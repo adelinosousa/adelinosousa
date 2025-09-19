@@ -1,10 +1,11 @@
-# Hi there 👋
-
-Welcome to my little corner of GitHub!
+<div align="center">
+  <h1>Welcome to my little corner of GitHub!!!</h1>
+	<img src="welcome.webp" alt="welcome" width=400 />
+</div>
 
 ## About Me 🧑‍💻
 
-Full stack software developer who enjoys all expects of software development (including DevOps!). I love exploring/learning on my own time and consider myself a generalist at heart. Essentially, I like tinker with concepts, and sometimes it yields a few experimental projects along the way.
+I'm a full stack software developer who enjoys all expects of software development (including DevOps!). I love exploring/learning on my own time and consider myself a generalist at heart. Essentially, I like tinker with concepts, and sometimes it yields a few experimental projects along the way.
 
 ## Currently Working 🔨
 
